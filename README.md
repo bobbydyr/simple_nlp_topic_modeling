@@ -1,6 +1,6 @@
 # Topic Modeling
 
-Jupyter Notebook: 
+Jupyter Notebook: https://github.com/bobbydyr/simple_nlp_topic_modeling/blob/master/Topic%20Modeling.ipynb 
 
 # Background: 
  - Text provides more and more useful information with the development of machine learning. And customer sentiment is one of the applications. And the sentiment analysis could provide business huge value. 
